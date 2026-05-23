@@ -8,7 +8,7 @@ A Java Swing GUI application developed for **Assignment 3** of Software Construc
 
 | Name | Roll Number |
 |------|-------------|
-| Abdul Rehman | L1F23BSSE0184 |
+| Abdul Rehman Siddiqui | L1F23BSSE0184 |
 | Ayesha Adeel | L1F23BSSE0198 |
 
 ---
